@@ -9,7 +9,7 @@
 # IP-CIDR: 2
 # TOTAL: 36
 payload:
-  - gis-hk.202407.best
+  - DOMAIN,gis-hk.202407.best
   - DOMAIN,btsow.com
   - DOMAIN,btsow.pics
   - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
