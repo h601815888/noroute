@@ -9,6 +9,7 @@
 # IP-CIDR: 2
 # TOTAL: 36
 payload:
+  - DOMAIN-SUFFIX,terabox.fun
   - DOMAIN-SUFFIX,terabox.com
   - DOMAIN-SUFFIX,teraboxcdn.com
   - DOMAIN,bandwidthplace.com
