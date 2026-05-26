@@ -9,6 +9,8 @@
 # IP-CIDR: 2
 # TOTAL: 36
 payload:
+  - DOMAIN-SUFFIX,terabox.com
+  - DOMAIN-SUFFIX,teraboxcdn.com
   - DOMAIN,bandwidthplace.com
   - DOMAIN,gis-hk.202407.best
   - DOMAIN,btsow.com
